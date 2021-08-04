@@ -1,2 +1,3 @@
 # Hello-world
 Description of this new repository
+Hello, this is the practice round, heat 1, training session, ...
